@@ -23,14 +23,13 @@ HackHub służy do zarządzania interakcjami społecznościowymi, umożliwiając
 | 2             | Tworzenie profilu           | Możliwość dodawania podstawowych informacji o użytkowniku, takich jak imię, nazwisko, zdjęcie profilowe, biografia itp. | 1         | Funkcjonalne   |
 | 3             | Publikowanie treści         | Umożliwienie użytkownikom publikowania krótkich wiadomości.          | 1         | Funkcjonalne   |
 | 4             | Interakcje społecznościowe  | Możliwość polubienia i komentowania postów innych użytkowników.                      | 1         | Funkcjonalne   |
-| 5             | Moderacja treści            | Panel administracyjny umożliwiający moderację treści oraz blokowanie użytkowników.                  | 2         | Funkcjonalne   |
-| 6             | Statystyki aktywności       | Dostęp do statystyk dotyczących aktywności użytkowników, takich jak liczba followersów, polubień. | 2         | Funkcjonalne   |
-| 7             | Wyszukiwanie postów         | Możliwość wyszukiwania postów użytkowników na platformie.                                           | 1         | Funkcjonalne   |
-| 8             | Zarządzanie kontem          | Panel użytkownika umożliwiający zarządzanie ustawieniami konta.                  | 2         | Funkcjonalne   |
-| 9             | Wielojęzyczność             | Obsługa różnych języków w interfejsie użytkownika.                                                 | 2         | Funkcjonalne   |
-| 10            | Responsywny interfejs       | Responsywny interfejs użytkownika.                      | 1         | Niefunkcjonalne |
-| 11            | Monitoring wydajności       | Narzędzia monitorowania wydajności systemu.                                                        | 1         | Niefunkcjonalne |
-| 12            | Skalowalność infrastruktury | Skalowalność infrastruktury w przypadku wzrostu liczby użytkowników i aktywności na platformie.     | 1         | Niefunkcjonalne |
+| 5             | Statystyki aktywności       | Dostęp do statystyk dotyczących aktywności użytkowników, takich jak liczba followersów, polubień. | 2         | Funkcjonalne   |
+| 6             | Wyszukiwanie postów         | Możliwość wyszukiwania postów użytkowników na platformie.                                           | 1         | Funkcjonalne   |
+| 7             | Zarządzanie kontem          | Panel użytkownika umożliwiający zarządzanie ustawieniami konta.                  | 2         | Funkcjonalne   |
+| 8             | Wielojęzyczność             | Obsługa różnych języków w interfejsie użytkownika.                                                 | 2         | Funkcjonalne   |
+| 9            | Responsywny interfejs       | Responsywny interfejs użytkownika.                      | 1         | Niefunkcjonalne |
+| 10            | Monitoring wydajności       | Narzędzia monitorowania wydajności systemu.                                                        | 1         | Niefunkcjonalne |
+| 11            | Skalowalność infrastruktury | Skalowalność infrastruktury w przypadku wzrostu liczby użytkowników i aktywności na platformie.     | 1         | Niefunkcjonalne |
 
 ## IV. Architektura systemu/oprogramowania
 
